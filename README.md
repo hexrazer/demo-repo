@@ -2,4 +2,4 @@
 
 My first demo project!
 
-upadated
+updated
